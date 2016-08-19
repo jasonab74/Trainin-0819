@@ -1,0 +1,14 @@
+{
+	"appname": "Trainin 0819",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "D593BA4D-BD90-4551-B5C8-6BB40F66A339",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
